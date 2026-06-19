@@ -20,7 +20,6 @@ Computer Science student at <strong>IIIT Kota</strong> (CGPA: 9.1/10.0). I desig
 
 ## 🎓 About
 - **Education:** Computer Science @ IIIT Kota (CGPA: 9.1/10.0)
-- **Role:** Cloud Lead @ GDG on Campus • Mentored 100+ students  
 - **Focus:** AI/ML prototypes, full-stack web apps, cloud-native solutions.
 - **Looking for:** Product teams building customer-facing web apps & intelligent systems.
 
