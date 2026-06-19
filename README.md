@@ -1,5 +1,5 @@
 # Hi, I'm Parvika Shekhawat 👋 
-**Cloud Lead @ GDG on Campus | Incoming AI/ML Trainee @ Infosys Springboard**
+**Cloud Lead @ GDG on Campus |
 
 I am a Computer Science student at **IIIT Kota** (CGPA: 9.1/10.0) focusing on building intelligent systems and cloud-native solutions.
 
