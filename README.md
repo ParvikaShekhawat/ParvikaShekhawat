@@ -112,26 +112,6 @@ Computer Science student at <strong>IIIT Kota</strong> (CGPA: 9.1/10.0). I desig
 
 ---
 
-## 🏆 Achievements & highlights
-
-- **GDG Cloud Lead:** Mentored 100+ students • Chapter achieved Tier 1 Status.
-- **Fake News Detection:** NLP engine with 90% accuracy deployed as REST API.
-- **Competitive Programming:** 2-Star CodeChef (Max: 1527) • 150+ LeetCode problems solved.
-- **SIH 2025:** Selected for internal rounds (Problem SIH004) at institute level.
-- **Real-time Systems:** Built alert system with <2s latency & geolocation integration.
-
----
-
-## 💼 Work highlights (for recruiters)
-
-- Built accessible, high‑performance frontends with React & TypeScript; focused on measurable UX improvements.
-- Shipped backend services (Python/Node) with containerized deployments and CI/CD pipelines.
-- Prototyped ML pipelines for NLP and classification; evaluated model metrics and performance.
-- Strong collaborator: clear PRs, documentation, and mentorship across teams.
-- Led technical workshops & mentored 100+ students in cloud technologies (GCP).
-
----
-
 ## 📫 Hire / Contact
 
 If you're hiring for an engineering role, internship, or mentorship opportunity, I'd love to chat.
