@@ -106,10 +106,6 @@ Computer Science student at <strong>IIIT Kota</strong> (CGPA: 9.1/10.0). I desig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvikaShekhawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" style="margin-top:12px;border-radius:12px" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParvikaShekhawat&theme=discord&no-frame=true" alt="Trophies" />
-</p>
-
 ---
 
 ## 📫 Hire / Contact
