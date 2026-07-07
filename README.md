@@ -1,120 +1,228 @@
-<p align="center">
-  <img src="assets/girlly.gif" alt="Workspace hero" width="720" style="border-radius:14px; box-shadow: 0 12px 30px rgba(2,6,23,0.6);" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi — I'm Parvika Shekhawat 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,19,20,24,27&text=Parvika%20Shekhawat&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=58"/>
 
-<p align="center"><strong>Full‑stack Engineer • React & TypeScript • ML Prototypes</strong></p>
+<br>
 
-<p align="center" style="max-width:820px;margin:0 auto;">
-Computer Science student at <strong>IIIT Kota</strong> (CGPA: 9.1/10.0). I design and build polished, production‑grade web applications and intelligent systems. I focus on clean architecture, great UX. Open to internships and junior engineering roles.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%40+IIIT+Kota;Building+Scalable+Full-Stack+Applications;Backend+Engineering+%7C+Cloud+%7C+AI-powered+Products;Always+Learning.+Always+Building." />
 
-<p align="center">
-  <a href="mailto:shekhaparvika@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ParvikaShekhawat"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/parvika-shekhawat-547474329/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<br><br>
 
----
+<a href="mailto:shekhaparvika@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🎓 About
-- **Education:** Computer Science @ IIIT Kota (CGPA: 9.1/10.0)
-- **Focus:** AI/ML prototypes, full-stack web apps, cloud-native solutions.
-- **Looking for:** Product teams building customer-facing web apps & intelligent systems.
+<a href="https://github.com/ParvikaShekhawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/parvika-shekhawat-547474329/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ Tech stack
+<!-- Replace with your portfolio later -->
+<!-- <a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a> -->
 
-<p align="center">
-  <!-- Languages & frameworks -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-</p>
+<br><br>
 
-<p align="center">
-  <!-- UI & styling -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ParvikaShekhawat&style=for-the-badge&color=7C3AED"/>
 
-<p align="center">
-  <!-- AI/ML & Data -->
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-00B4D8?style=flat-square&logo=python&logoColor=white" />
-</p>
+<img src="https://img.shields.io/github/followers/ParvikaShekhawat?style=for-the-badge&logo=github&color=6D28D9"/>
 
-<p align="center">
-  <!-- Databases & infra -->
-  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
+<img src="https://img.shields.io/github/stars/ParvikaShekhawat?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB"/>
 
-<p align="center">
-  <!-- Testing & CI/CD -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=rest&logoColor=white" />
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/IIIT-Kota-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CGPA-9.1%2F10-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Rajasthan-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🚀 Featured projects
+# 👋 About Me
 
-<p align="center">
-  <a href="https://github.com/ParvikaShekhawat/fake-news-detection" target="_blank" rel="noopener">
-    <img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/fake-news-detection" alt="fake-news-detection preview" width="340" style="margin:10px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.12);" />
-  </a>
-  <a href="https://github.com/ParvikaShekhawat/MeetSpace" target="_blank" rel="noopener">
-    <img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/MeetSpace" alt="MeetSpace preview" width="340" style="margin:10px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.12);" />
-  </a>
-  <a href="https://github.com/ParvikaShekhawat/HealthPulse" target="_blank" rel="noopener">
-    <img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/HealthPulse" alt="HealthPulse preview" width="340" style="margin:10px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.12);" />
-  </a>
-</p>
+```text
+I am a Computer Science undergraduate at the Indian Institute of Information Technology (IIIT), Kota with a strong interest in Software Engineering, Backend Development, and Full-Stack Web Development.
 
-<p align="center">
-  <strong>fake-news-detection</strong> — NLP engine (Python, Scikit-learn) • 90% accuracy with Flask REST API.<br/>
-  <strong>MeetSpace</strong> — Real-time meeting UI (TypeScript, React) • Frontend & real-time components.<br/>
-  <strong>HealthPulse</strong> — Health tracker (TypeScript, MERN) • UI enhancements & team collaboration.
-</p>
+I enjoy building scalable applications that combine clean architecture, modern web technologies, and intuitive user experiences. My projects range from AI-assisted platforms and healthcare solutions to real-time collaborative systems.
 
----
+I believe in writing maintainable code, designing robust backend systems, and continuously improving through open-source contributions, competitive programming, and hands-on product development.
+```
 
-## 📊 Live GitHub stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParvikaShekhawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" style="max-width:100%;border-radius:12px;box-shadow:0 12px 30px rgba(2,6,23,0.6);" />
-</p>
+### 💼 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvikaShekhawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" style="margin-top:12px;border-radius:12px" />
-</p>
+- 🎓 B.Tech in Computer Science @ IIIT Kota
+- 💻 Backend Developer @ IIIT Kota Web Team
+- ☁️ Cloud Lead @ Google Developer Groups IIIT Kota
+- 🚀 Building production-ready full-stack applications
+- 📚 Solving Data Structures & Algorithms regularly
+- 🤝 Open to Software Engineering Internships
 
 ---
 
-## 📫 Hire / Contact
+# 💼 Position
 
-If you're hiring for an engineering role, internship, or mentorship opportunity, I'd love to chat.
+| Role | Organization | Duration |
+|------|--------------|----------|
+| Backend Developer | IIIT Kota Web Team | Present |
+| Cloud Lead | Google Developer Groups IIIT Kota | Present |
 
-- **Email:** shekhaparvika@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/parvika-shekhawat-547474329/  
-- **GitHub:** https://github.com/ParvikaShekhawat
+---
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql,html,css,bash"/>
+<br>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+<br>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<br>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma"/>
+
+### Real-Time & Collaboration
+<img src="https://skillicons.dev/icons?i=websocket"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/Monaco%20Editor-007ACC?style=for-the-badge"/>
+<br>
+
+### Cloud & Tools
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman"/>
+</div>
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🩺 HealthPulse+
+
+<a href="https://github.com/ParvikaShekhawat/HealthPulse">
+<img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/HealthPulse"/>
+</a>
+
+AI-powered telemedicine platform with multilingual support, OCR-based medical report parsing, secure WebRTC consultations, and an intelligent health assistant.
+
+**Tech**
+
+`React` `Node.js` `Express` `MongoDB` `WebRTC`
+
+</td>
+
+<td width="50%">
+
+### 💼 MeetSpace
+
+<a href="https://github.com/ParvikaShekhawat/MeetSpace">
+<img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/MeetSpace"/>
+</a>
+
+Technical interview platform featuring collaborative coding, real-time communication, interview scheduling, and candidate evaluation workflows.
+
+**Tech**
+
+`React` `TypeScript` `Node.js` `Prisma` `PostgreSQL`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 🌱 Currently Exploring
+
+<div align="center">
+
+`System Design`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Backend Architecture`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Cloud Computing`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Microservices`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Distributed Systems`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Open Source`
+
+</div>
+
+---
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParvikaShekhawat&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+# 📑 GitHub Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParvikaShekhawat&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParvikaShekhawat&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParvikaShekhawat&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParvikaShekhawat&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
 
 ---
 
-*Last updated: June 2026 | Open to opportunities starting immediately*
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shekhaparvika@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ParvikaShekhawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/parvika-shekhawat-547474329/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- <a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a> -->
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,40:6D28D9,70:7C3AED,100:2563EB"/>
+
+</div>
