@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=5691C8&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%40+IIIT+Kota;Building+Scalable+Full-Stack+Applications;Backend+Development+%7C+Cloud+Computing;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=5691C8&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%40+IIIT+Kota;Building+Scalable+Full-Stack+Applications" />
 
 <br><br>
 
