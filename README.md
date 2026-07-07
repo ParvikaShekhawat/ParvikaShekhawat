@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,19,20,24,27&text=Parvika%20Shekhawat&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:457FCA,100:5691C8&text=Parvika%20Shekhawat&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%40+IIIT+Kota;Building+Scalable+Full-Stack+Applications;Backend+Engineering+%7C+Cloud+%7C+AI-powered+Products;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=5691C8&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%40+IIIT+Kota;Building+Scalable+Full-Stack+Applications;Backend+Development+%7C+Cloud+Computing;Always+Learning.+Always+Building." />
 
 <br><br>
 
 <a href="mailto:shekhaparvika@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ParvikaShekhawat">
@@ -20,28 +20,23 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace with your portfolio later -->
-<!-- <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ParvikaShekhawat&style=for-the-badge&color=5691C8"/>
+
+<img src="https://img.shields.io/github/followers/ParvikaShekhawat?style=for-the-badge&logo=github&label=Followers&color=457FCA"/>
+
+<img src="https://img.shields.io/github/stars/ParvikaShekhawat?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=5691C8"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ParvikaShekhawat&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/badge/IIIT%20Kota-457FCA?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/ParvikaShekhawat?style=for-the-badge&logo=github&color=6D28D9"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-5691C8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/ParvikaShekhawat?affiliations=OWNER&style=for-the-badge&logo=github&color=2563EB"/>
+<img src="https://img.shields.io/badge/CGPA-9.1%2F10-457FCA?style=for-the-badge"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/IIIT-Kota-4F46E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CGPA-9.1%2F10-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Rajasthan-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rajasthan,%20India-5691C8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -223,6 +218,6 @@ Technical interview platform featuring collaborative coding, real-time communica
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,40:6D28D9,70:7C3AED,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:457FCA,100:5691C8"/>
 
 </div>
