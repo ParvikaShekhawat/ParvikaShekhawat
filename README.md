@@ -155,6 +155,10 @@ Production-ready interview platform with collaborative coding, scheduling, AI-po
 
 ## 🤝 Connect
 
+Always open to collaborating on interesting projects, discussing backend systems, or exploring new opportunities
+
+
+
 <div align="center">
 
 <a href="mailto:shekhaparvika@gmail.com">
@@ -171,6 +175,3 @@ Production-ready interview platform with collaborative coding, scheduling, AI-po
 
 </div>
 
-
-
-Always open to collaborating on interesting projects, discussing backend systems, or exploring new opportunities.
