@@ -10,8 +10,6 @@ Backend Developer • Full-Stack Developer • IIIT Kota
 Building scalable web applications with modern backend technologies and clean software architecture.
 </p>
 
-<br>
-
 <a href="mailto:shekhaparvika@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -33,16 +31,6 @@ Building scalable web applications with modern backend technologies and clean so
 I'm a Computer Science undergraduate at **IIIT Kota** with a strong interest in backend engineering and scalable software systems.
 
 I enjoy building production-ready applications, designing clean APIs, and solving algorithmic problems. I'm currently focused on full-stack development, cloud technologies, system design, and real-time applications.
-
-<div align="center">
-
-`Backend`
-`Full-Stack`
-`System_Design`
-`Cloud`
-`DSA`
-
-</div>
 
 ---
 
@@ -90,11 +78,7 @@ AI-powered telemedicine platform featuring multilingual support, OCR-based medic
 
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/WebRTC-555555?style=for-the-badge"/>
-
+`React` `Node.js` `Express` `MongoDB` `WebRTC`
 </td>
 
 <td width="50%" valign="top">
@@ -105,10 +89,7 @@ Production-ready interview platform with collaborative coding, scheduling, AI-po
 
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+`React` `TypeScript` `Node.js` `Prisma` `PostgreSQL`
 
 </td>
 
@@ -118,11 +99,9 @@ Production-ready interview platform with collaborative coding, scheduling, AI-po
 ---
 
 ## 🌱 Currently Exploring
-
 <div align="center">
-
+  
 `System_Design` `Backend_Architecture` `Microservices` `Distributed_Systems` `Cloud_Computing` `Open_Source`
-
 </div>
 
 ---
@@ -155,23 +134,16 @@ Production-ready interview platform with collaborative coding, scheduling, AI-po
 
 ## 🤝 Connect
 
-Always open to collaborating on interesting projects, discussing backend systems, or exploring new opportunities
-
-
-
 <div align="center">
 
 <a href="mailto:shekhaparvika@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/ParvikaShekhawat">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/parvika-shekhawat-547474329/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
-
