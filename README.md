@@ -28,9 +28,10 @@ Building scalable web applications with modern backend technologies and clean so
 
 ## 👋 About Me
 
-I'm a Computer Science undergraduate at **IIIT Kota** with a strong interest in backend engineering and scalable software systems.
+CS undergraduate at **IIIT Kota** passionate about backend engineering and building things that scale.
 
-I enjoy building production-ready applications, designing clean APIs, and solving algorithmic problems. I'm currently focused on full-stack development, cloud technologies, system design, and real-time applications.
+I enjoy creating robust APIs, designing efficient systems, and solving problems with clean, maintainable code. Currently exploring full-stack development, cloud infrastructure, system design, and real-time applications while continuously improving my engineering skills.
+
 
 ---
 
