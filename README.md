@@ -98,14 +98,6 @@ Production-ready interview platform with collaborative coding, scheduling, AI-po
 
 ---
 
-## 🌱 Currently Exploring
-<div align="center">
-  
-`System_Design` `Backend_Architecture` `Microservices` `Distributed_Systems` `Cloud_Computing` `Open_Source`
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
