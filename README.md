@@ -1,15 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:457FCA,100:5691C8&text=Parvika%20Shekhawat&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20Problem%20Solver&descAlignY=58&descSize=18"/>
+<h1>Parvika Shekhawat</h1>
+
+<h3>
+Backend Developer • Full-Stack Developer • IIIT Kota
+</h3>
+
+<p>
+Building scalable web applications with modern backend technologies and clean software architecture.
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=5691C8&center=true&vCenter=true&width=950&lines=Computer+Science+Student+%40+IIIT+Kota;Building+Scalable+Full-Stack+Applications" />
-
-<br><br>
-
 <a href="mailto:shekhaparvika@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ParvikaShekhawat">
@@ -20,184 +24,141 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ParvikaShekhawat&style=for-the-badge&color=5691C8"/>
-
-<img src="https://img.shields.io/github/followers/ParvikaShekhawat?style=for-the-badge&logo=github&label=Followers&color=457FCA"/>
-
-<img src="https://img.shields.io/github/stars/ParvikaShekhawat?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=5691C8"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/IIIT%20Kota-457FCA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE-5691C8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CGPA-9.1%2F10-457FCA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Rajasthan,%20India-5691C8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-```text
-I am a Computer Science undergraduate at the Indian Institute of Information Technology (IIIT), Kota with a strong interest in Software Engineering, Backend Development, and Full-Stack Web Development.
+I'm a Computer Science undergraduate at **IIIT Kota** with a strong interest in backend engineering and scalable software systems.
 
-I enjoy building scalable applications that combine clean architecture, modern web technologies, and intuitive user experiences. My projects range from AI-assisted platforms and healthcare solutions to real-time collaborative systems.
-
-I believe in writing maintainable code, designing robust backend systems, and continuously improving through open-source contributions, competitive programming, and hands-on product development.
-```
-
-<br>
-
-### 💼 Currently
-
-- 🎓 B.Tech in Computer Science @ IIIT Kota
-- 💻 Backend Developer @ IIIT Kota Web Team
-- ☁️ Cloud Lead @ Google Developer Groups IIIT Kota
-- 🚀 Building production-ready full-stack applications
-- 📚 Solving Data Structures & Algorithms regularly
-- 🤝 Open to Software Engineering Internships
-
----
-
-# 💼 Position
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| Backend Developer | IIIT Kota Web Team | Present |
-| Cloud Lead | Google Developer Groups IIIT Kota | Present |
-
----
-# 🛠️ Tech Stack
+I enjoy building production-ready applications, designing clean APIs, and solving algorithmic problems. I'm currently focused on full-stack development, cloud technologies, system design, and real-time applications.
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql,html,css,bash"/>
-<br>
+`Backend`
+`Full-Stack`
+`System_Design`
+`Cloud`
+`DSA`
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-<br>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-<br>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma"/>
-
-### Real-Time & Collaboration
-<img src="https://skillicons.dev/icons?i=websocket"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
-<img src="https://img.shields.io/badge/Monaco%20Editor-007ACC?style=for-the-badge"/>
-<br>
-
-### Cloud & Tools
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode,postman"/>
 </div>
 
 ---
-# 🚀 Featured Projects
+
+## 🛠️ Tech Stack
+<div align="left">
+
+**💻 Languages** &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql&theme=light"/>
+
+**🎨 Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=light"/>
+
+**⚙️ Backend** &nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light"/>
+
+**🗄️ Database & ORM** &nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,prisma,supabase&theme=light"/>
+
+**🔄 Real-Time** &nbsp;
+<img src="https://img.shields.io/badge/WebSocket-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square"/>
+
+**☁️ Cloud & DevOps** &nbsp;
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=light"/>
+
+**🛠️ Tools** &nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=light"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🩺 HealthPulse+
+### 🩺 <a href="https://github.com/ParvikaShekhawat/HealthPulse"><b>HealthPulse+</b></a>
 
-<a href="https://github.com/ParvikaShekhawat/HealthPulse">
-<img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/HealthPulse"/>
-</a>
+AI-powered telemedicine platform featuring multilingual support, OCR-based medical report parsing, secure WebRTC consultations, and an intelligent AI health assistant.
 
-AI-powered telemedicine platform with multilingual support, OCR-based medical report parsing, secure WebRTC consultations, and an intelligent health assistant.
+<br>
 
-**Tech**
-
-`React` `Node.js` `Express` `MongoDB` `WebRTC`
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/WebRTC-555555?style=for-the-badge"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 MeetSpace
+### 💼 <a href="https://github.com/ParvikaShekhawat/MeetSpace"><b>MeetSpace</b></a>
 
-<a href="https://github.com/ParvikaShekhawat/MeetSpace">
-<img src="https://opengraph.githubassets.com/1/ParvikaShekhawat/MeetSpace"/>
-</a>
+Production-ready interview platform with collaborative coding, scheduling, AI-powered evaluation, video meetings, and interviewer dashboards.
 
-Technical interview platform featuring collaborative coding, real-time communication, interview scheduling, and candidate evaluation workflows.
+<br>
 
-**Tech**
-
-`React` `TypeScript` `Node.js` `Prisma` `PostgreSQL`
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
-# 🌱 Currently Exploring
+
+## 🌱 Currently Exploring
 
 <div align="center">
 
-`System Design`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Backend Architecture`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Cloud Computing`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Microservices`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Distributed Systems`
-&nbsp;&nbsp;•&nbsp;&nbsp;
-`Open Source`
+`System_Design` `Backend_Architecture` `Microservices` `Distributed_Systems` `Cloud_Computing` `Open_Source`
 
 </div>
 
 ---
-# 📈 Contribution Activity
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParvikaShekhawat&theme=tokyo-night&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParvikaShekhawat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-</div>
-
----
-# 📑 GitHub Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParvikaShekhawat&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvikaShekhawat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParvikaShekhawat&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParvikaShekhawat&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParvikaShekhawat&theme=tokyonight&utcOffset=5.5"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=ParvikaShekhawat&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParvikaShekhawat&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Connect
 
 <div align="center">
 
 <a href="mailto:shekhaparvika@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ParvikaShekhawat">
@@ -208,16 +169,8 @@ Technical interview platform featuring collaborative coding, real-time communica
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
-
 </div>
 
----
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:457FCA,100:5691C8"/>
-
-</div>
+Always open to collaborating on interesting projects, discussing backend systems, or exploring new opportunities.
